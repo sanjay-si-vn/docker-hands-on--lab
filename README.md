@@ -176,3 +176,8 @@ docker pull
 ## Learning Outcome
 
 This repository helped strengthen my understanding of Docker fundamentals, containerized application workflows, storage management, networking concepts, image registries, and troubleshooting practices commonly used in DevOps and Cloud environments.
+
+## Screenshots
+
+<img width="1916" height="1014" alt="image" src="https://github.com/user-attachments/assets/83cd443e-46cd-4b37-b0d8-a5276c76df79" />
+
